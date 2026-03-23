@@ -10,8 +10,12 @@ Aspiring SOC Analyst | Cybersecurity Student
 - Learning threat detection and incident response
 
 ## Projects
-- SOC Threat Detection Lab  
-  Simulated SSH brute-force attack and detected it using Splunk SIEM
+
+### SOC Threat Detection Lab
+Simulated SSH brute-force attack using Hydra and detected it using Splunk SIEM.
+
+### Network Scanning Lab
+Performed network reconnaissance using Nmap to identify open ports and services.
 
 ## Skills
 - SIEM: Splunk  
