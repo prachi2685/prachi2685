@@ -17,6 +17,10 @@ Simulated SSH brute-force attack using Hydra and detected it using Splunk SIEM.
 ### Network Scanning Lab
 Performed network reconnaissance using Nmap to identify open ports and services.
 
+### Vulnerability Lab
+Built and tested a vulnerable web application to explore common security vulnerabilities such as SQL Injection, XSS, and weak authentication.
+
+
 ## Skills
 - SIEM: Splunk  
 - Networking: Nmap  
